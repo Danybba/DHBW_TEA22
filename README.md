@@ -1,2 +1,2 @@
 # DHBW_TEA22
-for lessons usage
+repository with projects of our lab lessons
