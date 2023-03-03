@@ -1,2 +1,2 @@
 # DHBW_TEA22
-repository with projects of our lab lessons
+repository with projects and flowcharts of our lab lessons
